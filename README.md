@@ -1,7 +1,7 @@
 #Breakout Java
 
 A breakout game designed and built in Java for a user interface course.
-![Breakout Game](https://github.com/alpersad/Breakout/docs/screenshots/normalgame.png)
+![Breakout Game](https://github.com/alpersad/Breakout/blob/master/docs/screenshots/normalgame.png)
 
 ##Design
 
@@ -18,9 +18,9 @@ The game is fully scalable to any size. All the elements in the display scales p
 In addition to the base Breakout game, I added an additional game element named sticky ball.
 When a player has obtained enough points in the game, the player can activate the "sticky ball" mode which
 attaches the ball to the paddle on next contact. This allows players to reposition and launch the ball.
-![Sticky Ball Feature](https://github.com/alpersad/Breakout/docs/screenshots/stickyon.png)
+![Sticky Ball Feature](https://github.com/alpersad/Breakout/blob/master/docs/screenshots/stickyon.png)
 
 ##How to Play
 Download and run the Breakout.jar file.
 
-![Instructions](https://github.com/alpersad/Breakout/docs/screenshots/instruction_page.png)
+![Instructions](https://github.com/alpersad/Breakout/blob/master/docs/screenshots/instruction_page.png)
