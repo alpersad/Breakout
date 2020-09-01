@@ -1,6 +1,6 @@
 # Breakout Java
 
-A breakout game designed and built in Java for a user interface course.
+A breakout game designed and built in Java for a user interface course. Email arunlevipersad@gmail.com for the source code access.
 ![Breakout Game](https://github.com/alpersad/Breakout/blob/master/docs/screenshots/normalgame.png)
 
 ## Design
